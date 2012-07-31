@@ -1,2 +1,2 @@
-my-tp
+Django Tastypie learning
 =====
